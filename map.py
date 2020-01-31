@@ -27,7 +27,7 @@ for data3 in data2:
 
 print(dictionary)
 
-"""plot diagnoised patient based on province"""
+"""plot diagnosed patient based on province"""
 data = dictionary
 
 lat_min = 0
